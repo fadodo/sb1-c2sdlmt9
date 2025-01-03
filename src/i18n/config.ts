@@ -16,7 +16,6 @@ i18n
     detection: {
       order: ['navigator', 'htmlTag', 'path', 'subdomain'],
       caches: ['localStorage'],
-      lookupFromPathIndex: 0,
     },
     interpolation: {
       escapeValue: false
