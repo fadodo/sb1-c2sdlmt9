@@ -35,8 +35,9 @@ export function HeroSection() {
           <div className="mt-10 flex flex-wrap items-center gap-4">
             <Link to="/services">
               <Button
+                size="lg"
                 variant="primary"
-                className="bg-blue-500 hover:bg-blue-600"
+                className="bg-[#9b87f5] hover:bg-[#8670f4]"
               >
                 Découvrez nos services
                 <ArrowRight className="ml-2 h-5 w-5" />
@@ -44,8 +45,9 @@ export function HeroSection() {
             </Link>
             <Link to="/contact">
               <Button
+                size="lg"
                 variant="outline"
-                className="bg-white/10 text-white border-white/20 hover:bg-white/20"
+                className="text-white border-white hover:bg-white/10"
               >
                 Parlez à un expert 
               </Button>

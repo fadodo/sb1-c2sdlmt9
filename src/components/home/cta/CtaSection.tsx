@@ -16,7 +16,7 @@ export function CtaSection() {
         </p>
         <div className="flex flex-wrap justify-center gap-4">
           <Link to="/contact">
-            <Button variant="primary" className="bg-white text-blue-600 hover:bg-blue-50">
+            <Button variant="primary" className="bg-[#9b87f5] hover:bg-[#8670f4]">
               Contactez-nous
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>

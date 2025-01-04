@@ -24,7 +24,8 @@ export default function Hero() {
           <div className="mt-10 flex items-center gap-x-6">
             <a
               href="#contact"
-              className="rounded-md bg-blue-600 px-6 py-3 text-lg font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transition-colors inline-flex items-center gap-2"
+              className="bg-[#9b87f5] hover:bg-[#8670f4]"
+              
             >
               Contactez nos experts
               <ArrowRight className="h-5 w-5" />
