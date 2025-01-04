@@ -18,11 +18,6 @@ function FeatureCard({ icon: Icon, title, description }: { icon: any, title: str
 export default function DataAnalysisPage() {
   const features = [
     {
-      icon: Brain,
-      title: "Machine Learning",
-      description: "Modèles prédictifs avancés, classification automatique et détection d'anomalies pour anticiper les tendances."
-    },
-    {
       icon: BarChart,
       title: "Business Intelligence",
       description: "Tableaux de bord interactifs et rapports dynamiques pour une visualisation claire de vos KPIs."
@@ -31,6 +26,11 @@ export default function DataAnalysisPage() {
       icon: Database,
       title: "Data Mining",
       description: "Extraction de patterns et insights cachés dans vos données grâce à des algorithmes sophistiqués."
+    },
+    {
+      icon: Brain,
+      title: "Machine Learning",
+      description: "Modèles prédictifs avancés, classification automatique et détection d'anomalies pour anticiper les tendances."
     },
     {
       icon: Zap,

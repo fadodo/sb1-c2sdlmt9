@@ -28,14 +28,9 @@ export default function GeospatialDataPage() {
       description: "Création de cartes interactives et analyses spatiales pour visualiser et comprendre les données géographiques."
     },
     {
-      icon: Ruler,
-      title: "Données LiDAR",
-      description: "Acquisition et traitement de données LiDAR pour la modélisation 3D précise du terrain et des infrastructures."
-    },
-    {
-      icon: Mountain,
-      title: "Modélisation 3D",
-      description: "Création de modèles 3D détaillés pour la planification urbaine et l'analyse environnementale."
+      icon: Database,
+      title: "Gestion de Données",
+      description: "Solutions complètes de gestion et d'analyse des données géospatiales avec des outils SIG avancés."
     },
     {
       icon: Eye,
@@ -43,9 +38,9 @@ export default function GeospatialDataPage() {
       description: "Suivi en temps réel des changements environnementaux et détection précoce des anomalies."
     },
     {
-      icon: Database,
-      title: "Gestion de Données",
-      description: "Solutions complètes de gestion et d'analyse des données géospatiales avec des outils SIG avancés."
+      icon: Mountain,
+      title: "Modélisation 3D",
+      description: "Création de modèles 3D détaillés pour la planification urbaine et l'analyse environnementale."
     }
   ];
 

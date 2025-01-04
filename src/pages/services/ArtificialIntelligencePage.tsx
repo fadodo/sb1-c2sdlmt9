@@ -28,16 +28,6 @@ export default function ArtificialIntelligencePage() {
       description: "Analyse automatique d'images et de vidéos pour la détection d'objets, la segmentation et la reconnaissance faciale."
     },
     {
-      icon: MessageSquare,
-      title: "Traitement du Langage Naturel",
-      description: "Analyse de textes, chatbots intelligents et systèmes de compréhension automatique du langage."
-    },
-    {
-      icon: Network,
-      title: "Systèmes de Recommandation",
-      description: "Algorithmes personnalisés pour prédire les préférences et suggérer des contenus pertinents."
-    },
-    {
       icon: Cpu,
       title: "IA pour l'Analyse Géospatiale",
       description: "Combinaison de l'IA et des données géospatiales pour une analyse territoriale avancée."

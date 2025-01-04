@@ -11,6 +11,21 @@ import {
 
 export const expertiseList = [
   {
+    Icon: ThermometerSun,
+    title: "Changement Climatique",
+    description: "Modélisation climatique, études d'impact environnemental",
+  },
+  {
+    Icon: FlaskConical,
+    title: "R&D",
+    description: "Innovation technologique, prototypage, validation de concepts",
+  },
+  {
+    Icon: Map,
+    title: "Environnement & Agriculture",
+    description: "Monitoring environnemental, agriculture de précision",
+  },
+  {
     Icon: BarChart,
     title: "Finance & Assurance",
     description: "Analyse de risques, détection de fraude, scoring crédit",
@@ -19,11 +34,6 @@ export const expertiseList = [
     Icon: Network,
     title: "Industrie & Logistique",
     description: "Optimisation des process, maintenance prédictive, supply chain",
-  },
-  {
-    Icon: Map,
-    title: "Environnement & Agriculture",
-    description: "Monitoring environnemental, agriculture de précision",
   },
   {
     Icon: Users,
@@ -39,15 +49,5 @@ export const expertiseList = [
     Icon: Heart,
     title: "ONG",
     description: "Support aux missions humanitaires, analyse d'impact social",
-  },
-  {
-    Icon: ThermometerSun,
-    title: "Changement Climatique",
-    description: "Modélisation climatique, études d'impact environnemental",
-  },
-  {
-    Icon: FlaskConical,
-    title: "R&D",
-    description: "Innovation technologique, prototypage, validation de concepts",
   }
 ];
